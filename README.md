@@ -1,5 +1,5 @@
 # Meteors
-<p>IoT Μετεωρολογικός Σταθμός με τη χρήση Arduino.</p>
+<h1>IoT Μετεωρολογικός Σταθμός με τη χρήση Arduino.</h1>
 <p>Η Συμμετοχή των μαθητών του 1ου Λυκείου Σερρών στο Διαγωνισμό Ανοιχτών Τεχνολογιών της ΕΛΛΑΚ.</p>
 <p>Μπορείτε να παρακολουθείτε την πορεία της ομάδας στο <a href="https://github.com/ntsepelis/Meteors/wiki/%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF">wiki</a>, όπου διατηρούμε <a href="https://github.com/ntsepelis/Meteors/wiki/%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF">ημερολόγιο</a>.</p>
 <br>
